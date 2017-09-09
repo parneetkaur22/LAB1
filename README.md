@@ -7,3 +7,4 @@ const schools = [
 ];
 ```
 console.table(schools);# LAB1
+![capture](https://user-images.githubusercontent.com/31783681/30236552-1739db98-94ea-11e7-9483-66f83d5bbe90.PNG)
